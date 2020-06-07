@@ -1,4 +1,5 @@
-# README
+# Let's Build: With Ruby on Rails - eCommerce Music Shop - following YouTube Tutorial 
+https://www.youtube.com/watch?v=kUoN3Uv9ZTQ
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
